@@ -1,0 +1,99 @@
+
+
+
+
+**********************************************************************************************************************************
+Practice 1:
+**********************************************************************************************************************************
+Click portal.azure.com, click all services and identify the services in the left hand side pane
+
+**********************************************************************************************************************************
+Practice 2:
+**********************************************************************************************************************************
+
+Power BI Account Details:
+====================
+Account 1:
+
+user name: vinaytech_2404@vinaytechhouse.com
+password: vinaytech@2023
+
+===================================
+Workspace: Working area [It supports PBIX, RDL, and XLSX files]
+Appspace: Sharing area [Customers se this to browse reports and share annotations, Team members to colloborate work]
+==================================
+
+**********************************************************************************************************************************
+Practice 3: You have to do the below at the cloud service in the browser
+**********************************************************************************************************************************
+a) Open Browser (Google chrome or Internet Explorer)
+b) Type cloud service URL:  app.power bi.com, connect with the above credentials
+c) Create workspace [left hand side navigation, click create workspace]
+d) Upload the below items
+		Non paginated report: Power BI Desktop Report: PBIX File
+		Paginated report: Report Builder report: .rdl
+		Excel file
+	Note: You will find these in the respective video folder
+
+**********************************************************************************************************************************
+Practice 4:  Download and Install Power BI App
+**********************************************************************************************************************************
+Download and install Power BI App in mobile or tab. 
+													
+
+**********************************************************************************************************************************
+Practice 5: You have to do the below at the Mobile / Tab as a second user [manager / tech lead] 
+**********************************************************************************************************************************
+1) Open your mobile / tab, go to play store / any store, search Power BI app, Install It.
+2) Open Power BI App, Choose Power BI Service and Enter the below credentials:
+
+	User name: vinaytech_0805@vinaytechhouse.com
+	Password: vinaytech@2023
+3) Go to recent section, click on the app created now and browse  the reports.
+
+4) Open Non Paginated Report [pbix] report--> In the bottom few options available, use them(Reset, Comment, Pages), finally annotated report share via whatsapp on 63043 92065.
+
+
+Note: Don't place in the whatsapp group
+
+3 minutes time...
+
+
+How many ways we share reports or dashboards to customers?
+
+a) By using on-demand share or scheduled share options for each report
+b) By providing QR code for each report
+
+c) By creating and sharing app which contains multiple reports, dashboards, workbooks etc.
+
+Note:
+a) If the report is optimized for mobile (mobile view), it will show in portait view affectively
+b) Appspace objects will have more properties in web view than mobile view
+c) Mobile view has a wonder concept called annotations creation and sharing to multiple platforms.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
